@@ -21,7 +21,7 @@
  - This game can not install or run on your machine
  - This game is hosted online above is the link 
  - Steps
-    #prabir kumar
+    
     1. You have to download the .zip file or clone the git repository to your machine
     2. How to download 👉️: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
     3. Download VS code 👉️: https://code.visualstudio.com/
